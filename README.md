@@ -15,7 +15,7 @@ Projeto de uma agenda de contatos feita como desafio prático do curso de desenv
 <p>Essa página mostra o botão para adicionar novo contato.Clicando no ícone de excluir, abre o modal de confirmação para exclusão do contato</p>
 
 ## Como Executar o projeto
-<p>Para executar o projeto basta fazer um fork para o seu repositório ou baixar o projeto.zip e executar o index.htm,l no seu navegador</p>
+<p>Para executar o projeto basta fazer um fork para o seu repositório ou baixar o projeto.zip e executar o index.html no seu navegador</p>
 
 ## Futuras implementações
 
