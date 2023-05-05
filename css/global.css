@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aside {
+    margin-top: 15vh;
+}
+
+.login button {
+
+
+    width: 475px;
+    height: 50px;
+    border-radius: 8px;
+
+    color: white;
+
+
+}
+
+.btn-green {
+    background-color: #04C45C;
+}
+
+.btn-red {
+    margin-top: 8px;
+    background-color: rgba(251, 6, 21, 0.65);
+}
+
+.input-login-form {
+    width: 476px;
+    height: 51px;
+
+    margin-bottom: 16px;
+    padding: 16px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+    border: 1px solid lightgray;
+
+}
+
+.login-form strong {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.login-form h1 {
+    margin-bottom: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+#signin {
+    align-self: center;
+    margin-top: 96px;
+}
+
+.align-center {
+    align-self: center;
+}
